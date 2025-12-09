@@ -79,7 +79,6 @@ I enjoy practicing through small projects, improving my skills step by step, and
 
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 
-> (أضف روابطك هنا عندما تجهزها — LinkedIn / Gmail / WhatsApp)
 
 <div align="center">
   <a href="YOUR-LINKEDIN-LINK">
@@ -88,7 +87,7 @@ I enjoy practicing through small projects, improving my skills step by step, and
   <a href="mailto:maherrecover@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/qr/AZV2VMHRIJLOH1">
+  <a href="https://wa.me/963965899184">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
